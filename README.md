@@ -1,0 +1,1 @@
+# codeclauseinternship-imageremover
